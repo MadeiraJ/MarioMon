@@ -1,0 +1,14 @@
+{
+  "frames": {
+	"BACKGROUND.png": {
+	  "frame": {"x":0, "y":0, "w":4000, "h":450},
+	  "spriteSourceSize": {"x":0,"y":0,"w":4000,"h":450},
+	  "sourceSize": {"w":4000,"h":450}
+	}
+},
+"meta": {
+	"image": "background.png",
+	"size": {"w": 4000, "h": 450},
+	"scale": "1"
+}
+}

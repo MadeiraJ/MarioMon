@@ -1,0 +1,100 @@
+{
+"frames": {
+	"BLOCO_1.png": {
+		"frame": {"x":48, "y":556, "w":48, "h":48},
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+		"sourceSize": {"w":48,"h":48}
+	},
+	"BLOCO_2.png": {
+		"frame": {"x":0, "y":336, "w":95, "h":48},
+		"spriteSourceSize": {"x":0,"y":0,"w":95,"h":48},
+		"sourceSize": {"w":95,"h":48}
+	},
+	"BLOCO_3.png": {
+		"frame": {"x":0, "y":240, "w":189, "h":48},
+		"spriteSourceSize": {"x":0,"y":0,"w":189,"h":48},
+		"sourceSize": {"w":189,"h":48}
+	},
+	"CHAO_1.png": {
+		"frame": {"x":0, "y":144, "w":511, "h":48},
+		"spriteSourceSize": {"x":0,"y":0,"w":511,"h":48},
+		"sourceSize": {"w":511,"h":48}
+	},
+	"CHAO_2.png": {
+		"frame": {"x":0, "y":48, "w":606, "h":48},
+		"spriteSourceSize": {"x":0,"y":0,"w":606,"h":48},
+		"sourceSize": {"w":606,"h":48}
+	},
+	"CHAO_3.png": {
+		"frame": {"x":0, "y":0, "w":937, "h":48},
+		"spriteSourceSize": {"x":0,"y":0,"w":937,"h":48},
+		"sourceSize": {"w":937,"h":48}
+	},
+	"CHAO_4.png": {
+		"frame": {"x":0, "y":192, "w":208, "h":48},
+		"spriteSourceSize": {"x":0,"y":0,"w":208,"h":48},
+		"sourceSize": {"w":208,"h":48}
+	},
+	"CHAO_5.png": {
+		"frame": {"x":0, "y":800, "w":48, "h":48},
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+		"sourceSize": {"w":48,"h":48}
+	},
+	"CHAO_6.png": {
+		"frame": {"x":0, "y":288, "w":96, "h":48},
+		"spriteSourceSize": {"x":0,"y":0,"w":96,"h":48},
+		"sourceSize": {"w":96,"h":48}
+	},
+	"CHAO_7.png": {
+		"frame": {"x":0, "y":96, "w":586, "h":48},
+		"spriteSourceSize": {"x":0,"y":0,"w":586,"h":48},
+		"sourceSize": {"w":586,"h":48}
+	},
+	"INTERROGACAO_1.png": {
+		"frame": {"x":0, "y":556, "w":48, "h":48},
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+		"sourceSize": {"w":48,"h":48}
+	},
+	"INTERROGACAO_2.png": {
+		"frame": {"x":48, "y":849, "w":48, "h":48},
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+		"sourceSize": {"w":48,"h":48}
+	},
+	"OBSTACULO_1.png": {
+		"frame": {"x":0, "y":848, "w":48, "h":48},
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+		"sourceSize": {"w":48,"h":48}
+	},
+	"OBSTACULO_2.png": {
+		"frame": {"x":48, "y":604, "w":48, "h":98},
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":98},
+		"sourceSize": {"w":48,"h":98}
+	},
+	"OBSTACULO_3.png": {
+		"frame": {"x":48, "y":702, "w":48, "h":147},
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":147},
+		"sourceSize": {"w":48,"h":147}
+	},
+	"OBSTACULO_4.png": {
+		"frame": {"x":0, "y":604, "w":48, "h":196},
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":196},
+		"sourceSize": {"w":48,"h":196}
+	},
+	"TUBO_1.png": {
+		"frame": {"x":0, "y":384, "w":73, "h":112},
+		"spriteSourceSize": {"x":1,"y":1,"w":74,"h":113},
+		"sourceSize": {"w":74,"h":113}
+	},
+	"TUBO_2.png": {
+		"frame": {"x":0, "y":496, "w":73, "h":60},
+		"spriteSourceSize": {"x":1,"y":1,"w":74,"h":61},
+		"sourceSize": {"w":74,"h":61}
+	}
+
+},
+"meta": {
+	"image": "e_background.png",
+	"size": {"w": 937, "h": 897},
+	"scale": "1"
+}
+}

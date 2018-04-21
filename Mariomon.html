@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head lang="pt">
+        <meta charset="UTF-8">
+        <title>Mariomon</title>
+        <link type="text/css" rel="stylesheet" media="screen" href="Mariomon.css">
+        <script src="lib/extendjs/extend.min.js"></script>
+        <script src="lib/animation/requestAnimationFramePolyfill.js"></script>
+        <script src="lib/input/keyboard.js"></script>
+        <script src="lib/net/AJAX.js"></script>
+        <script src="lib/media/SoundManager.js"></script>
+        <script src="lib/media/CanvasFilters.js"></script>
+        <script src="SpriteSheet.js"></script>
+        <script src="GameWorld.js"></script>
+        <script src="Camera.js"></script>
+        <script src="Entity.js"></script>
+        <script src="Component.js"></script>
+        <script src="InfoBar.js"></script>
+        <script src="BarraEnergia.js"></script>
+        <script src="TempoJogo.js"></script>
+        <script src="Background.js"></script>
+        <script src="EntiBackground.js"></script>
+        <script src="Mario.js"></script>
+		<script src="Pokemon.js"></script>
+        <script src="Boss.js"></script>
+		<script src="Pokeball.js"></script>
+
+        <script src="Mariomon.js"></script>
+        <script src="MariomonL2.js"></script>
+    </head>
+    <body>
+        <div id="entrada">
+            <img class="titulo" src="images/titulo.png">
+            <input type="button" id="carregarJogo">
+            <div id="carregar" style="display:none">
+                <h6>A Carregar...</h6>
+                <p>Por favor tente novamente</p>
+                <input type="button" id="okS">
+            </div>
+        </div>
+        <div id="zonaJogo" style="display:none">
+            <img class="titulo" src="images/titulo.png">
+            <div class="jogar">
+                <canvas id="canvasFundo" width="950" height="450"></canvas>
+                <canvas id="canvasEntidade" width="950" height="450"></canvas>
+                <canvas id="canvasComponentes" width="950" height="450"></canvas>
+            </div>
+            <div id="fim" style="display:none">
+                <h6>Game Over!!!</h6>
+                <input type="button" id="okF">
+            </div>
+            <div id="ganhou" style="display:none">
+                <h6>Vencedor!!!</h6>
+                <input type="button" id="okV">
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,234 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url(images/background.png);
+}
+
+#entrada {
+    position: absolute;
+    width: 600px;
+    height: 450px;
+    background: rgba(255, 255, 255, 0.55);
+    border-radius: 6px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.35);
+    z-index: 2;
+    top: 90px;
+    left: 360px;
+}
+
+#entrada .titulo {
+    width: 500px;
+    height: 250px;
+    position: absolute;
+    top: 10px;
+    left: 50px;
+}
+
+#carregarJogo{
+    width: 200px;
+    height: 60px;
+    position: absolute;
+    top: 300px;
+    left: 200px;
+    background-image: url(images/jogar.png);
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: #1E7179;
+    border: 2px solid red;
+    cursor: pointer;
+    z-index: 2;
+}
+
+#carregarJogo:hover, #bOK:hover, #carregar input:hover, #fim input:hover, #ganhou input:hover {
+    background-color: red;
+}
+
+#carregar, #fim, #ganhou{
+    position: absolute;
+    width: 400px;
+    height: 250px;
+    background-color: white;
+    border-radius: 5px;
+    border: 2px solid red;
+    z-index: 35;
+}
+
+#carregar{
+    top: 90px;
+    left: 100px;
+}
+
+#fim, #ganhou{
+    top: 220px;
+    left: 270px;
+}
+
+#carregar p{
+    margin-top: 40px;
+    font-family: Arial;
+    color: red;
+    text-align: center;
+    font-size: 20px;
+}
+
+#carregar h6, #fim h6, #ganhou h6{
+    margin-top:30px;
+    font-family: Arial;
+    color: red;
+    text-align: center;
+    font-size: 30px;
+}
+
+#carregar input, #fim input, #ganhou input{
+    position: absolute;
+    top: 180px;
+    left: 160px;
+    width: 70px;
+    height: 30px;
+    background-image: url(images/bOK.png);
+    background-color: white;
+    border-radius: 8px;
+    border: 2px solid red;
+}
+
+
+#zonaJogo{
+    position: absolute;
+    width: 950px;
+    height: 600px;
+    left: 220px;
+}
+
+
+#zonaJogo .jogar{
+    position: absolute;
+    width: 950px;
+    height: 450px;
+    background: white;
+    border-radius: 6px;
+    border: 6px solid red;
+    top: 130px;
+}
+
+#zonaJogo .titulo{
+    width: 270px;
+    height: 110px;
+    position: absolute;
+    top: 10px;
+    left: 40px;
+}
+
+#novoNivel{
+    top: 190px;
+    left: 50px;
+    width: 850px;
+    height: 350px;
+    position: absolute;
+    background-image: url(images/fundoNovoNivel.png);
+    z-index:35;
+    border-radius: 8px;
+    box-shadow: #1E7179;
+    border: 2px solid red;
+}
+
+#nNTitulo{
+    position: absolute;
+    width: 130px;
+    height: 30px;
+    top: 10px;
+    left: 360px;
+    font-family: Arial;
+    color: red;
+    text-align: center;
+    font-size: 15px;
+    z-index: 36;
+}
+
+#ePokemon{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    opacity:0.8;
+    /*filter: blur(1px);*/
+    top: 50px;
+    left: 25px;
+    font-family: Arial;
+    color: red;
+    text-align: center;
+    font-size: 15px;
+    z-index: 36;
+    border-radius: 2px;
+    border: 1px solid red;
+}
+
+#qual{
+    margin-left: 5px;
+    margin-top: 5px;
+    font-size: 14px;
+    color: royalblue;
+}
+
+#imgAla{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 10px;
+}
+
+.nPokemon{
+    position: absolute;
+    color: red;
+    text-align: center;
+    font-size: 12px;
+    left: 50px;
+}
+
+.radio{
+    position: absolute;
+    left: 160px;
+}
+
+#bOK{
+    position: absolute;
+    left: 370px;
+    top: 230px;
+    width: 70px;
+    height: 30px;
+    background-image: url(images/bOK.png);
+    background-color: white;
+    border-radius: 8px;
+    border: 2px solid red;
+}
+
+#canvasFundo, #canvasEntidade, #canvasComponentes{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    margin: 0;
+    padding: 0;
+}
+#canvasFundo{
+    z-index:10;
+}
+
+#canvasEntidade{
+    z-index:20;
+}
+
+#canvasComponentes {
+    z-index:30;
+}
+
+@font-face {
+    font-family: PiratesWriters;
+    src: url("fonts/PiratesWriters.ttf");
+}
+
+@font-face {
+    font-family: Grobold;
+    src: url("fonts/GROBOLD.ttf");
+}

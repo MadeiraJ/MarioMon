@@ -1,0 +1,200 @@
+{
+"frames": {
+  	"STAY_FRENTE.png": {
+		"frame": {"x":125, "y":0, "w":106, "h":57},
+		"spriteSourceSize": {"x":0,"y":0,"w":106,"h":57},
+		"sourceSize": {"w":106,"h":57}
+  	},
+	"ANDAR_FRENTE_01.png": {
+		"frame": {"x":125, "y":0, "w":106, "h":57},
+		"spriteSourceSize": {"x":0,"y":0,"w":106,"h":57},
+		"sourceSize": {"w":106,"h":57}
+	},
+	"ANDAR_FRENTE_02.png": {
+		"frame": {"x":0, "y":386, "w":106, "h":53},
+		"spriteSourceSize": {"x":0,"y":0,"w":106,"h":53},
+		"sourceSize": {"w":106,"h":53}
+	},
+	"ANDAR_FRENTE_03.png": {
+		"frame": {"x":0, "y":50, "w":124, "h":49},
+		"spriteSourceSize": {"x":0,"y":0,"w":124,"h":49},
+		"sourceSize": {"w":124,"h":49}
+	},
+	"ANDAR_FRENTE_04.png": {
+		"frame": {"x":294, "y":370, "w":79, "h":61},
+		"spriteSourceSize": {"x":0,"y":0,"w":79,"h":61},
+		"sourceSize": {"w":79,"h":61}
+	},
+	"ANDAR_FRENTE_05.png": {
+		"frame": {"x":214, "y":320, "w":97, "h":49},
+		"spriteSourceSize": {"x":0,"y":0,"w":97,"h":49},
+		"sourceSize": {"w":97,"h":49}
+	},
+	"ANDAR_FRENTE_06.png": {
+		"frame": {"x":107, "y":100, "w":106, "h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":106,"h":40},
+		"sourceSize": {"w":106,"h":40}
+	},
+  	"STAY_TRAS.png": {
+		"frame": {"x":107, "y":141, "w":106, "h":57},
+		"spriteSourceSize": {"x":0,"y":0,"w":106,"h":57},
+		"sourceSize": {"w":106,"h":57}
+  	},
+	"ANDAR_TRAS_01.png": {
+		"frame": {"x":107, "y":141, "w":106, "h":57},
+		"spriteSourceSize": {"x":0,"y":0,"w":106,"h":57},
+		"sourceSize": {"w":106,"h":57}
+	},
+	"ANDAR_TRAS_02.png": {
+		"frame": {"x":214, "y":116, "w":106, "h":53},
+		"spriteSourceSize": {"x":0,"y":0,"w":106,"h":53},
+		"sourceSize": {"w":106,"h":53}
+	},
+	"ANDAR_TRAS_03.png": {
+		"frame": {"x":0, "y":0, "w":124, "h":49},
+		"spriteSourceSize": {"x":0,"y":0,"w":124,"h":49},
+		"sourceSize": {"w":124,"h":49}
+	},
+	"ANDAR_TRAS_04.png": {
+		"frame": {"x":214, "y":370, "w":79, "h":61},
+		"spriteSourceSize": {"x":0,"y":0,"w":79,"h":61},
+		"sourceSize": {"w":79,"h":61}
+	},
+	"ANDAR_TRAS_05.png": {
+		"frame": {"x":214, "y":220, "w":97, "h":49},
+		"spriteSourceSize": {"x":0,"y":0,"w":97,"h":49},
+		"sourceSize": {"w":97,"h":49}
+	},
+	"ANDAR_TRAS_06.png": {
+		"frame": {"x":107, "y":253, "w":106, "h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":106,"h":40},
+		"sourceSize": {"w":106,"h":40}
+	},
+	"ATACAR_FRENTE_01.png": {
+		"frame": {"x":294, "y":370, "w":79, "h":61},
+		"spriteSourceSize": {"x":0,"y":0,"w":79,"h":61},
+		"sourceSize": {"w":79,"h":61}
+	},
+	"ATACAR_FRENTE_02.png": {
+		"frame": {"x":214, "y":270, "w":97, "h":49},
+		"spriteSourceSize": {"x":0,"y":0,"w":97,"h":49},
+		"sourceSize": {"w":97,"h":49}
+	},
+	"ATACAR_FRENTE_03.png": {
+		"frame": {"x":107, "y":393, "w":106, "h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":106,"h":40},
+		"sourceSize": {"w":106,"h":40}
+	},
+	"ATACAR_FRENTE_04.png": {
+		"frame": {"x":214, "y":58, "w":106, "h":57},
+		"spriteSourceSize": {"x":0,"y":0,"w":106,"h":57},
+		"sourceSize": {"w":106,"h":57}
+	},
+	"ATACAR_FRENTE_05.png": {
+		"frame": {"x":0, "y":216, "w":106, "h":53},
+		"spriteSourceSize": {"x":0,"y":0,"w":106,"h":53},
+		"sourceSize": {"w":106,"h":53}
+	},
+	"ATACAR_TRAS_01.png": {
+		"frame": {"x":214, "y":370, "w":79, "h":61},
+		"spriteSourceSize": {"x":0,"y":0,"w":79,"h":61},
+		"sourceSize": {"w":79,"h":61}
+	},
+	"ATACAR_TRAS_02.png": {
+		"frame": {"x":214, "y":170, "w":97, "h":49},
+		"spriteSourceSize": {"x":0,"y":0,"w":97,"h":49},
+		"sourceSize": {"w":97,"h":49}
+	},
+	"ATACAR_TRAS_03.png": {
+		"frame": {"x":107, "y":294, "w":106, "h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":106,"h":40},
+		"sourceSize": {"w":106,"h":40}
+	},
+	"ATACAR_TRAS_04.png": {
+		"frame": {"x":107, "y":335, "w":106, "h":57},
+		"spriteSourceSize": {"x":0,"y":0,"w":106,"h":57},
+		"sourceSize": {"w":106,"h":57}
+	},
+	"ATACAR_TRAS_05.png": {
+		"frame": {"x":107, "y":199, "w":106, "h":53},
+		"spriteSourceSize": {"x":0,"y":0,"w":106,"h":53},
+		"sourceSize": {"w":106,"h":53}
+	},
+	"ATINGIDO_FRENTE_01.png": {
+		"frame": {"x":312, "y":290, "w":66, "h":59},
+		"spriteSourceSize": {"x":0,"y":0,"w":66,"h":59},
+		"sourceSize": {"w":66,"h":59}
+	},
+	"ATINGIDO_FRENTE_02.png": {
+		"frame": {"x":374, "y":350, "w":55, "h":68},
+		"spriteSourceSize": {"x":0,"y":0,"w":55,"h":68},
+		"sourceSize": {"w":55,"h":68}
+	},
+	"ATINGIDO_FRENTE_03.png": {
+		"frame": {"x":321, "y":0, "w":66, "h":59},
+		"spriteSourceSize": {"x":0,"y":0,"w":66,"h":59},
+		"sourceSize": {"w":66,"h":59}
+	},
+	"ATINGIDO_FRENTE_04.png": {
+		"frame": {"x":214, "y":58, "w":106, "h":57},
+		"spriteSourceSize": {"x":0,"y":0,"w":106,"h":57},
+		"sourceSize": {"w":106,"h":57}
+	},
+	"ATINGIDO_FRENTE_05.png": {
+		"frame": {"x":0, "y":216, "w":106, "h":53},
+		"spriteSourceSize": {"x":0,"y":0,"w":106,"h":53},
+		"sourceSize": {"w":106,"h":53}
+	},
+	"ATINGIDO_FRENTE_06.png": {
+		"frame": {"x":0, "y":328, "w":106, "h":57},
+		"spriteSourceSize": {"x":0,"y":0,"w":106,"h":57},
+		"sourceSize": {"w":106,"h":57}
+	},
+	"ATINGIDO_FRENTE_07.png": {
+		"frame": {"x":0, "y":270, "w":106, "h":57},
+		"spriteSourceSize": {"x":0,"y":0,"w":106,"h":57},
+		"sourceSize": {"w":106,"h":57}
+	},
+	"ATINGIDO_TRAS_01.png": {
+		"frame": {"x":312, "y":170, "w":66, "h":59},
+		"spriteSourceSize": {"x":0,"y":0,"w":66,"h":59},
+		"sourceSize": {"w":66,"h":59}
+	},
+	"ATINGIDO_TRAS_02.png": {
+		"frame": {"x":321, "y":60, "w":55, "h":68},
+		"spriteSourceSize": {"x":0,"y":0,"w":55,"h":68},
+		"sourceSize": {"w":55,"h":68}
+	},
+	"ATINGIDO_TRAS_03.png": {
+		"frame": {"x":312, "y":230, "w":66, "h":59},
+		"spriteSourceSize": {"x":0,"y":0,"w":66,"h":59},
+		"sourceSize": {"w":66,"h":59}
+	},
+	"ATINGIDO_TRAS_04.png": {
+		"frame": {"x":107, "y":335, "w":106, "h":57},
+		"spriteSourceSize": {"x":0,"y":0,"w":106,"h":57},
+		"sourceSize": {"w":106,"h":57}
+	},
+	"ATINGIDO_TRAS_05.png": {
+		"frame": {"x":107, "y":199, "w":106, "h":53},
+		"spriteSourceSize": {"x":0,"y":0,"w":106,"h":53},
+		"sourceSize": {"w":106,"h":53}
+	},
+	"ATINGIDO_TRAS_06.png": {
+		"frame": {"x":0, "y":158, "w":106, "h":57},
+		"spriteSourceSize": {"x":0,"y":0,"w":106,"h":57},
+		"sourceSize": {"w":106,"h":57}
+	},
+	"ATINGIDO_TRAS_07.png": {
+		"frame": {"x":0, "y":100, "w":106, "h":57},
+		"spriteSourceSize": {"x":0,"y":0,"w":106,"h":57},
+		"sourceSize": {"w":106,"h":57}
+	}
+
+},
+"meta": {
+	"image": "sprites.png",
+	"size": {"w": 430, "h": 440},
+	"scale": "1"
+}
+}
